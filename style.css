@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(to right, #660033, #ff0000);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.name{
+    color: white;
+    text-decoration: underline;
+    font-size: 45pt;
+    font-family: Chomsky;
+    justify-content: center;
+    display: flex;
+}
+
+.banner{
+    width: 300px;
+    margin-top: 6%;
+}
+
+#legenda{
+    justify-content: center;
+    display: flex;
+    font-size: 12px;
+    margin-top: -0.5%;
+    opacity: 75%;
+}
+
+#lgnd{
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+}
+
+#lgnd-2{
+    justify-content: center;
+    display: flex;
+    font-size: 14px;
+}
+
+#lgnd-3{
+    justify-content: center;
+    display: flex;
+    margin-top: 1%;
+    opacity: 70%;
+}
+
+#download{
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+}
